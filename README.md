@@ -1,4 +1,4 @@
-# AWS CloudFormation Template for Creating Route 53 DNS Record Sets
+# AWS CloudFormation Template for Creating Route 53 DNS Record Sets 
 
 This sample AWS CloudFormation template accepts two parameters. One for the public Route 53 hosted zone id, and one for the domain name. The use case for this example is for a mail server but can be adapted to support any DNS record type supported by Route 53.
 
